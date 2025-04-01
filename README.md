@@ -1,4 +1,4 @@
-# ddd-tech-whsiperers
+# tech-whsiperers
 Welcome to the Interactive App Assembly repository! 🎉 This project showcases the apps we collaboratively built live during our presentation.
 
 Getting Started
